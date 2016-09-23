@@ -128,8 +128,25 @@ namespace BTL_QUANLYTHUVIEN
 
         private void btnDangNhap_ItemClick(object sender, ItemClickEventArgs e)
         {
-     
-       
+
+        Cont:
+            //Kiểm tra xem form DangNhap được mở hay đóng, nếu đóng thì tạo mới
+            if (dn == null || dn.IsDisposed)
+                dn = new frmLogin();
+            //dn.ShowDialog();
+            //khi nhấn đăng nhập
+            if (dn.ShowDialog() == DialogResult.OK)
+            {
+                if (dn.chucVu == -1) goto Cont;
+                //Set lại menu theo quyền  
+                else
+                {
+                    AnMenu(true, dn.chucVu);
+                    maNV = dn.maNV;
+                }
+            }
+            //khi nhấn thoát
+            else dn.Close();
         }
 
         private void btnMuonTra_ItemClick(object sender, ItemClickEventArgs e)
