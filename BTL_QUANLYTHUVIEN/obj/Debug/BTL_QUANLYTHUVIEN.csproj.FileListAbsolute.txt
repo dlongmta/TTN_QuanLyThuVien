@@ -1,1 +1,9 @@
 C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csprojResolveAssemblyReference.cache
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Form1.resources
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmLogin.resources
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmMuonTra.resources
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Properties.Resources.resources
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj.GenerateResource.Cache
+D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
