@@ -2,6 +2,7 @@ C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.e
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
@@ -35,3 +36,6 @@ D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.li
 =======
 D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
 >>>>>>> refs/remotes/origin/cuopemveday
+=======
+D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+>>>>>>> refs/remotes/origin/PhanDuy

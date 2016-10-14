@@ -68,6 +68,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="frmKho.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,6 +81,13 @@
     <Compile Include="frmDocGia.Designer.cs">
       <DependentUpon>frmDocGia.cs</DependentUpon>
 >>>>>>> refs/remotes/origin/cuopemveday
+=======
+    <Compile Include="frmDauSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDauSach.Designer.cs">
+      <DependentUpon>frmDauSach.cs</DependentUpon>
+>>>>>>> refs/remotes/origin/PhanDuy
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -87,11 +95,25 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmTheLoai.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmTheLoai.Designer.cs">
       <DependentUpon>frmTheLoai.cs</DependentUpon>
+=======
+    <Compile Include="frmMuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuonSach.Designer.cs">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTraSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTraSach.Designer.cs">
+      <DependentUpon>frmTraSach.cs</DependentUpon>
+>>>>>>> refs/remotes/origin/PhanDuy
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
