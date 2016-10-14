@@ -1,4 +1,5 @@
 C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+<<<<<<< HEAD
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
@@ -16,3 +17,6 @@ F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.pdb
+=======
+D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+>>>>>>> refs/remotes/origin/ThanhTung

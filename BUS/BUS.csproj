@@ -45,7 +45,11 @@
     <Compile Include="KetNoi_BUS.cs" />
     <Compile Include="NhanVien_BUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <Compile Include="TheLoai_BUS.cs" />
+=======
+    <Compile Include="Sach_BUS.cs" />
+>>>>>>> refs/remotes/origin/ThanhTung
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAO\DAO.csproj">
