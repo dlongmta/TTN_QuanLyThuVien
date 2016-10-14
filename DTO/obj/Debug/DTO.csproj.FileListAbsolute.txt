@@ -4,3 +4,8 @@ C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DTO\bin\Debug\Sqlhelper.dll
 C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
 C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DTO\obj\Debug\DTO.dll
 C:\data\hoc tap\Web\LUYENTAP\BTL_QUANLYTHUVIEN\DTO\obj\Debug\DTO.pdb
+F:\Github\TTN_QuanLyThuVien\DTO\bin\Debug\DTO.dll
+F:\Github\TTN_QuanLyThuVien\DTO\bin\Debug\DTO.pdb
+F:\Github\TTN_QuanLyThuVien\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Github\TTN_QuanLyThuVien\DTO\obj\Debug\DTO.dll
+F:\Github\TTN_QuanLyThuVien\DTO\obj\Debug\DTO.pdb
