@@ -1,6 +1,7 @@
 C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
 F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
@@ -31,3 +32,6 @@ D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Proper
 D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj.GenerateResource.Cache
 D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
 >>>>>>> refs/remotes/origin/Doan-Thieu
+=======
+D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
+>>>>>>> refs/remotes/origin/cuopemveday

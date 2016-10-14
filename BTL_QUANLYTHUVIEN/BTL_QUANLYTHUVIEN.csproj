@@ -67,11 +67,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="frmKho.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmKho.Designer.cs">
       <DependentUpon>frmKho.cs</DependentUpon>
+=======
+    <Compile Include="frmDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocGia.Designer.cs">
+      <DependentUpon>frmDocGia.cs</DependentUpon>
+>>>>>>> refs/remotes/origin/cuopemveday
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
