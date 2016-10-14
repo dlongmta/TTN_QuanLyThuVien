@@ -44,12 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="DocGia_DAO.cs" />
-=======
     <Compile Include="DauSach_DAO.cs" />
     <Compile Include="MuonTra_DAO.cs" />
->>>>>>> refs/remotes/origin/PhanDuy
     <Compile Include="NhanVien_DAO.cs" />
     <Compile Include="Sach_DAO.cs" />
     <Compile Include="sqlConnectionData.cs" />

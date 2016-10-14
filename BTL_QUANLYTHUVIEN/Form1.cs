@@ -21,7 +21,7 @@ namespace BTL_QUANLYTHUVIEN
         public int chucVu = -1;
         public frmLogin dn = null;
         #endregion
-        AddTab.TabAdd clsAddTab = new AddTab.TabAdd(); 
+        AddTab.TabAdd clsAddTab = new AddTab.TabAdd();
         public Form1()
         {
             InitializeComponent();
@@ -57,7 +57,7 @@ namespace BTL_QUANLYTHUVIEN
             //return sub1 + sub;
             //   MessageBox.Show(s + " " + sub1);
             //MessageBox.Show(Convert.ToInt32("0010001").ToString());
-           // btnThongTinBanThan.Enabled = logged;
+            // btnThongTinBanThan.Enabled = logged;
             //btnDoiMatKhau.Enabled = logged;
             btnDauSach.Enabled = logged;
             btnKho.Enabled = logged;
@@ -65,8 +65,8 @@ namespace BTL_QUANLYTHUVIEN
             btnDocGia.Enabled = logged;
             btnNhanVien.Enabled = logged;
             btnMuonTra.Enabled = logged;
-           // btnTraSach.Enabled = logged;
-          //  btnLop.Enabled = logged;
+            // btnTraSach.Enabled = logged;
+            //  btnLop.Enabled = logged;
             //btnPhanQuyen.Enabled = logged;
             //btnLopHocPhan.Enabled = logged;
             xtraTabControl1.Enabled = logged;
@@ -85,7 +85,7 @@ namespace BTL_QUANLYTHUVIEN
 
         #endregion
 
-   
+
         private void xtraTabControl1_CloseButtonClick(object sender, EventArgs e)
         {
             xtraTabControl1.TabPages.RemoveAt(xtraTabControl1.SelectedTabPageIndex);
@@ -98,22 +98,92 @@ namespace BTL_QUANLYTHUVIEN
 
         private void btnDauSach_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-           
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Quản Lý Đầu Sách")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Đầu Sách", new frmDauSach());
+            }
+            //   siInfo.Caption = "Nhân Viên : " + Utilities.user.MaNV + " || Bạn đang xem tab Đổi Mật khẩu";
         }
 
         private void btnKho_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-           
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Quản Lý Kho")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Kho", new frmKho(maNV));
+            }
         }
 
         private void btnDocGia_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Quản Lý Độc Giả")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Độc Giả", new frmDocGia());
+            }
         }
 
         private void btnNhanVien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Quản Lý Nhân Viên")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Nhân Viên", new frmNhanVien());
+            }
         }
 
         private void btnDangXuat_ItemClick(object sender, ItemClickEventArgs e)
@@ -128,7 +198,7 @@ namespace BTL_QUANLYTHUVIEN
 
         private void btnDangNhap_ItemClick(object sender, ItemClickEventArgs e)
         {
-
+        //Khởi tạo biến Continue
         Cont:
             //Kiểm tra xem form DangNhap được mở hay đóng, nếu đóng thì tạo mới
             if (dn == null || dn.IsDisposed)
@@ -151,7 +221,24 @@ namespace BTL_QUANLYTHUVIEN
 
         private void btnMuonTra_ItemClick(object sender, ItemClickEventArgs e)
         {
-            
+            int t = 0;
+            foreach (DevExpress.XtraTab.XtraTabPage tab in xtraTabControl1.TabPages)
+            {
+                if (tab.Text == "Quản Lý Mượn Trả")
+                {
+                    xtraTabControl1.SelectedTabPage = tab;
+                    t = 1;
+                }
+            }
+            if (t == 1)
+            {
+
+            }
+            else
+            {
+
+                clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Mượn Trả", new frmMuonTra());
+            }
         }
     }
 }

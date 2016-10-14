@@ -1,41 +1,25 @@
 C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.dll
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.dll
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.dll
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.pdb
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.pdb
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.pdb
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csprojResolveAssemblyReference.cache
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Form1.resources
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmLogin.resources
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Properties.Resources.resources
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj.GenerateResource.Cache
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe
-F:\Github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.pdb
-=======
-D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
->>>>>>> refs/remotes/origin/ThanhTung
-=======
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csprojResolveAssemblyReference.cache
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Form1.resources
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmLogin.resources
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmMuonTra.resources
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Properties.Resources.resources
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj.GenerateResource.Cache
-D:\github\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
->>>>>>> refs/remotes/origin/Doan-Thieu
-=======
-D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
->>>>>>> refs/remotes/origin/cuopemveday
-=======
-D:\GitHub\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe.config
->>>>>>> refs/remotes/origin/PhanDuy
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.exe
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BTL_QUANLYTHUVIEN.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\BUS.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DTO.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\bin\Debug\DAO.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csprojResolveAssemblyReference.cache
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Form1.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmLogin.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.Properties.Resources.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.csproj.GenerateResource.Cache
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe.licenses
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.exe
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmMuonTra.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmEditMT.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmDauSach.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmDocGia.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmKho.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmMuonSach.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmTheLoai.resources
+C:\data\TTNhom\TTN_QuanLyThuVien\BTL_QUANLYTHUVIEN\obj\Debug\BTL_QUANLYTHUVIEN.frmTraSach.resources
