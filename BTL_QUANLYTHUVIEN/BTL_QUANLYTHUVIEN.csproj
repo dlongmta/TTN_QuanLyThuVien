@@ -67,27 +67,29 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="frmKho.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmKho.Designer.cs">
-      <DependentUpon>frmKho.cs</DependentUpon>
-=======
-    <Compile Include="frmDocGia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmDocGia.Designer.cs">
-      <DependentUpon>frmDocGia.cs</DependentUpon>
->>>>>>> refs/remotes/origin/cuopemveday
-=======
     <Compile Include="frmDauSach.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmDauSach.Designer.cs">
       <DependentUpon>frmDauSach.cs</DependentUpon>
->>>>>>> refs/remotes/origin/PhanDuy
+    </Compile>
+    <Compile Include="frmDocGia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocGia.Designer.cs">
+      <DependentUpon>frmDocGia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditMT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditMT.Designer.cs">
+      <DependentUpon>frmEditMT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKho.Designer.cs">
+      <DependentUpon>frmKho.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -95,33 +97,67 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-    <Compile Include="frmTheLoai.cs">
+    <Compile Include="frmMuonTra.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmTheLoai.Designer.cs">
-      <DependentUpon>frmTheLoai.cs</DependentUpon>
-=======
+    <Compile Include="frmMuonTra.Designer.cs">
+      <DependentUpon>frmMuonTra.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmMuonSach.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMuonSach.Designer.cs">
       <DependentUpon>frmMuonSach.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTheLoai.Designer.cs">
+      <DependentUpon>frmTheLoai.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmTraSach.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmTraSach.Designer.cs">
       <DependentUpon>frmTraSach.cs</DependentUpon>
->>>>>>> refs/remotes/origin/PhanDuy
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmDauSach.resx">
+      <DependentUpon>frmDauSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocGia.resx">
+      <DependentUpon>frmDocGia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditMT.resx">
+      <DependentUpon>frmEditMT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKho.resx">
+      <DependentUpon>frmKho.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonTra.resx">
+      <DependentUpon>frmMuonTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonSach.resx">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTheLoai.resx">
+      <DependentUpon>frmTheLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTraSach.resx">
+      <DependentUpon>frmTraSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">

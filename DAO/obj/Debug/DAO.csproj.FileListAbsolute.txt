@@ -1,7 +1,7 @@
-F:\Github\TTN_QuanLyThuVien\DAO\bin\Debug\DAO.dll
-F:\Github\TTN_QuanLyThuVien\DAO\bin\Debug\DAO.pdb
-F:\Github\TTN_QuanLyThuVien\DAO\bin\Debug\DTO.dll
-F:\Github\TTN_QuanLyThuVien\DAO\bin\Debug\DTO.pdb
-F:\Github\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
-F:\Github\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.dll
-F:\Github\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\bin\Debug\DAO.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\bin\Debug\DAO.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\bin\Debug\DTO.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\bin\Debug\DTO.pdb
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.dll
+C:\data\TTNhom\TTN_QuanLyThuVien\DAO\obj\Debug\DAO.pdb
