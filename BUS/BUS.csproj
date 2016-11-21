@@ -42,11 +42,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="DocGia_BUS.cs" />
+=======
     <Compile Include="DauSach_BUS.cs" />
+>>>>>>> refs/remotes/origin/PhanDuy
     <Compile Include="KetNoi_BUS.cs" />
     <Compile Include="MuonTra_BUS.cs" />
     <Compile Include="NhanVien_BUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <Compile Include="TheLoai_BUS.cs" />
+=======
+    <Compile Include="Sach_BUS.cs" />
+>>>>>>> refs/remotes/origin/ThanhTung
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAO\DAO.csproj">
