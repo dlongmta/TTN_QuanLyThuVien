@@ -27,7 +27,7 @@ namespace BTL_QUANLYTHUVIEN
                 // Form1 f = new Form1();
                 // f.userName = tbUserName.Text;
                 //   NhanVien_BUS.Login(tbUserName.Text, tbPassWord.Text);
-                chucVu = 0;
+                chucVu = Convert.ToInt32(NhanVien_BUS.MaQuyenNV(tbUserName.Text));
                 maNV = tbUserName.Text;
                 //   MessageBox.Show(chucVu.ToString());
                 //  f.Show();

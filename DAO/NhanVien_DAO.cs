@@ -27,5 +27,48 @@ namespace DAO
             cnn.Close();
             return dtb;
         }
+        public static DataTable DanhSachNV()
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_DSNV").Tables[0];
+            cnn.Close();
+            return dtb;
+        }
+        public static string LastMaNV()
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_lastMaNV").Tables[0];
+            cnn.Close();
+            return dtb.Rows[0][0].ToString();
+        }
+        //mã quyền
+        public static string MaQuyenNV(string ma)
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_QuyenHan", ma).Tables[0];
+            cnn.Close();
+            return dtb.Rows[0][0].ToString();
+        }
+        public static void themNV(string maNV, string tenNV, string gioiTinh, string phanQuyen, string pw)
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            SqlHelper.ExecuteNonQuery(cnn, "sp_themNV", maNV, tenNV, gioiTinh, phanQuyen, pw);
+            cnn.Close();
+            //   DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_themSV").Tables[0];
+        }
+        public static void suaNV(string maNV, string tenNV, string gioiTinh, string phanQuyen, string pw)
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            SqlHelper.ExecuteNonQuery(cnn, "sp_suaNV", maNV, tenNV, gioiTinh, phanQuyen, pw);
+            cnn.Close();
+            //   DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_themSV").Tables[0];
+        }
+        public static void xoaNV(string maNV)
+        {
+            SqlConnection cnn = sqlConnectionData.connection();
+            SqlHelper.ExecuteNonQuery(cnn, "sp_xoaNV", maNV);
+            cnn.Close();
+            //   DataTable dtb = SqlHelper.ExecuteDataset(cnn, "sp_themSV").Tables[0];
+        }
     }
 }

@@ -32,6 +32,7 @@ namespace BTL_QUANLYTHUVIEN
             else
             {
                 MessageBox.Show("Sách không tồn tại!");
+                check = 0;
                 tbMaSach.Clear();
                 tbGhiChu.Clear();
             }

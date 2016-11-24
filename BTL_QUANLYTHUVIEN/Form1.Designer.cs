@@ -55,6 +55,8 @@
             this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager(this.components);
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.btnHelp = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.xtraTabControl1)).BeginInit();
             this.xtraTabControl1.SuspendLayout();
@@ -76,9 +78,10 @@
             this.btnNhanVien,
             this.btnDauSach,
             this.btnKho,
-            this.btnMuonTra});
+            this.btnMuonTra,
+            this.btnHelp});
             this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl1.MaxItemId = 13;
+            this.ribbonControl1.MaxItemId = 14;
             this.ribbonControl1.Name = "ribbonControl1";
             this.ribbonControl1.PageHeaderItemLinks.Add(this.skinRibbonGalleryBarItem2);
             this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
@@ -229,6 +232,8 @@
             // 
             // rpThongTinChung
             // 
+            this.rpThongTinChung.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup1});
             this.rpThongTinChung.Name = "rpThongTinChung";
             this.rpThongTinChung.Text = "Thông Tin Chung";
             // 
@@ -277,6 +282,22 @@
             // openFileDialog1
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // ribbonPageGroup1
+            // 
+            this.ribbonPageGroup1.AllowTextClipping = false;
+            this.ribbonPageGroup1.ItemLinks.Add(this.btnHelp);
+            this.ribbonPageGroup1.Name = "ribbonPageGroup1";
+            this.ribbonPageGroup1.Text = "Thông tin chung";
+            // 
+            // btnHelp
+            // 
+            this.btnHelp.Caption = "Hướng dẫn sử dụng";
+            this.btnHelp.Glyph = ((System.Drawing.Image)(resources.GetObject("btnHelp.Glyph")));
+            this.btnHelp.Id = 13;
+            this.btnHelp.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnHelp.LargeGlyph")));
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnHelp_ItemClick);
             // 
             // Form1
             // 
@@ -328,6 +349,8 @@
         private DevExpress.XtraBars.Docking.DockManager dockManager1;
         private DevExpress.LookAndFeel.DefaultLookAndFeel defaultLookAndFeel1;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private DevExpress.XtraBars.BarButtonItem btnHelp;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup1;
     }
 }
 

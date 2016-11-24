@@ -61,6 +61,7 @@ namespace BTL_QUANLYTHUVIEN
             //btnDoiMatKhau.Enabled = logged;
             btnDauSach.Enabled = logged;
             btnKho.Enabled = logged;
+            btnDangNhap.Enabled = !logged;
             //  btnThoat.Enabled = logged;
             btnDocGia.Enabled = logged;
             btnNhanVien.Enabled = logged;
@@ -72,8 +73,8 @@ namespace BTL_QUANLYTHUVIEN
             xtraTabControl1.Enabled = logged;
             switch (QuyenHan)
             {
-                case 1: break;
-                case 0: HienThiNhanVien(); break;
+                case 1: btnNhanVien.Enabled = true; break;
+                case 0: btnNhanVien.Enabled = false; break;
             }
         }
 
@@ -239,6 +240,11 @@ namespace BTL_QUANLYTHUVIEN
 
                 clsAddTab.AddTab(xtraTabControl1, "", "Quản Lý Mượn Trả", new frmMuonTra());
             }
+        }
+
+        private void btnHelp_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Help.ShowHelp(this, "help.chm");
         }
     }
 }
